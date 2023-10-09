@@ -1,0 +1,11 @@
+Django==3.2.5            # The Django version at the time of my last update
+pytz==2021.1             # Timezone definitions, often needed by Django
+sqlparse==0.4.1          # SQL parsing library, required for Django
+
+# If you're using Django's default user authentication:
+django-crispy-forms==1.11.2   # For better looking Django forms
+
+# Other optional libraries you might consider:
+# djangorestframework==3.12.4    # For creating APIs in Django
+# django-allauth==0.44.0        # Comprehensive authentication solution
+# Pillow==8.2.0                 # Python Imaging Library (for handling images in Django)
