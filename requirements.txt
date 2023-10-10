@@ -8,4 +8,4 @@ django-crispy-forms==1.11.2   # For better looking Django forms
 # Other optional libraries you might consider:
 # djangorestframework==3.12.4    # For creating APIs in Django
 # django-allauth==0.44.0        # Comprehensive authentication solution
-# Pillow==8.2.0                 # Python Imaging Library (for handling images in Django)
+# Pillow==8.3.2                 # Python Imaging Library (for handling images in Django)
